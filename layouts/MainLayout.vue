@@ -19,7 +19,7 @@
             <Icon name="material-symbols:home-outline" size="35" color="#ffffff" />
             </button>
             <button
-            @click="userStore.isMenuOverLay=true"
+            @click="userStore.isMenuOverlay=true"
             class="w-full h-full"
             >
             <Icon class="mb-1" name="material-symbols:edit-square-outline-rounded" size="35" color="#ffffff" />
